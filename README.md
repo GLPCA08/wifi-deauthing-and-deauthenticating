@@ -30,10 +30,10 @@ A sample of attacking input:
 >      so apt upgrade
 >      sudo apt install aircrack-ng
   5. Run the file
-     '''
-     cd wifi-deauthing-and-deauthenticating-attack
-     sudo python3 <filename>
-     '''
+     
+>      cd wifi-deauthing-and-deauthenticating-attack
+>      sudo python3 <filename>
+     
 
 ## Note:<br>
   Use attack.py to attack multiple networks.<br>
