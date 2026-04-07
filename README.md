@@ -26,9 +26,9 @@ A sample of attacking input:
      Use git to download the repo<br>
      'git clone https://github.com/GLPCA08/wifi-deauthing-and-deauthenticating-attack.git'
   3. Install the tools:
-     'sudo apt update'
-     'so apt upgrade'
-     'sudo apt install aircrack-ng'
+>      'sudo apt update'
+>      'so apt upgrade'
+>      'sudo apt install aircrack-ng'
   5. Run the file
      '''
      cd wifi-deauthing-and-deauthenticating-attack
