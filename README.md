@@ -22,8 +22,8 @@ A sample of attacking input:
   1. Install Python
      [Click here](https://www.geeksforgeeks.org/python/how-to-install-python-on-linux/)
   2. Download the files:
-     Open terminal in a folder:
-     Use git to download the repo
+     Open terminal in a folder:<br>
+     Use git to download the repo<br>
      'git clone https://github.com/GLPCA08/wifi-deauthing-and-deauthenticating-attack.git'
   3. Install the tools:
      'sudo apt update'
