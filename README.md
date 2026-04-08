@@ -27,7 +27,7 @@ A sample of attacking input:
      'git clone https://github.com/GLPCA08/multiple-wifi-deauthenticating-attack.git'
   3. Install the tools:
 >      sudo apt update
->      so apt upgrade
+>      sudo apt upgrade
 >      sudo apt install aircrack-ng
   5. Run the file
      
