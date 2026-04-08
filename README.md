@@ -39,5 +39,7 @@ A sample of attacking input:
   Use attack.py to attack multiple networks.<br>
   Use singleattack.py to attack a single network.<br>
   Of course you can attack a single network with attack.py but it might be in efficient.
+
+  * Not tested with windows yet.
    
   
